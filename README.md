@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# welcome to zhangzhibo-max github.
+
+![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangzhibo-max&show_icons=true)
+
